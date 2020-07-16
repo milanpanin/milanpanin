@@ -1,6 +1,6 @@
 Hello Wrold! My name is Milan and I am a Web Developer from Novi Sad, Serbia. <br/>
 
-For more information about me, check out milanpanin.online.
+For more information about me, check out <a href="https://www.milanpanin.online">milanpanin.online!</a> 
 
 <!--
 **milanpanin/milanpanin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
