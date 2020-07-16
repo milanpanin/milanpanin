@@ -1,5 +1,4 @@
-Hello World! My name is Milan and I am a Web Developer from Novi Sad, Serbia. <br/>
-
+Hello World! My name is Milan and I am a Web Developer from Novi Sad, Serbia.
 For more information about me, check out <a href="https://www.milanpanin.online">milanpanin.online!</a> 
 
 <!--
