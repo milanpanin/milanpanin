@@ -1,4 +1,4 @@
-Hello World! My name is Milan and I am a Web Developer from <a href="https://www.google.com/maps/place/Нови+Сад/@45.271446,19.8144218,13z/data=!3m1!4b1!4m5!3m4!1s0x475b10613de93455:0xb6f7d683724fe28!8m2!3d45.2671352!4d19.8335496">Novi Sad, Serbia.</a> <br/>
+Hello World! My name is Milan and I am a Web Developer from Novi Sad, Serbia. <br/>
 
 For more information about me, check out <a href="https://www.milanpanin.online">milanpanin.online!</a> 
 
