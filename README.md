@@ -1,7 +1,6 @@
 ![Banner](https://res.cloudinary.com/dvpigocv1/image/upload/v1622330536/carbon1_sv3ml3.png)
 
 ---
-<br/>
 
 ### But who is Milan?
 Milan is a student from Novi Sad, who likes to spend his free time exploring the interesting world of JavaScript and learning how to develop the web in the best ways! 
