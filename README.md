@@ -1,4 +1,4 @@
-![Banner](https://res.cloudinary.com/dvpigocv1/image/upload/v1622330536/carbon1_sv3ml3.png)
+![Banner](https://res.cloudinary.com/dvpigocv1/image/upload/v1622576743/GitHub/Profile%20README/carbon.png)
 
 ---
 
