@@ -13,7 +13,7 @@ Milan is a student from Novi Sad, who likes to spend his time exploring the inte
 - You can also communicate with me on [LinkedIn](https://www.linkedin.com/in/milan-panin/)
 - Take a look at my [Curriculum Vitae a.k.a. CV](https://drive.google.com/file/d/1bUqvGumVsiZvxlQROHILKbdpVcYewtK1/view?usp=sharing)
 - Read some text from my [Medium Blog](https://medium.com/@milanpanin)
-- When I'm free, I like to spend time reading Reddit ([r/javascript](https://www.reddit.com/r/javascript/top/?t=month), [r/reactjs](https://www.reddit.com/r/reactjs/top/?t=month), [r/webdev](https://www.reddit.com/r/webdev/top/?t=month)...) posts and discussions where developers present their projects and opinions from which I learned a lot about software development. I'm also an old-fashioned programmer, along learning through video tutorials and courses from Udemy, I also like to find information in books.
+- When I'm free, I like to spend time reading Reddit ([r/javascript](https://www.reddit.com/r/javascript/top/?t=month), [r/reactjs](https://www.reddit.com/r/reactjs/top/?t=month), [r/webdev](https://www.reddit.com/r/webdev/top/?t=month)...) posts and discussions where developers present their projects and opinions from which I learned a lot about software development. I'm also an old-fashioned programmer, along learning through video tutorials and courses from Udemy, I also like to find information in [books](https://twitter.com/milanpanin/status/1401447411919249410) ❤️
 
 ### Languages and Tools:
 
