@@ -8,7 +8,7 @@ Milan is a student from Novi Sad, who likes to spend his time exploring the inte
 ### More About Me:
 
 - Currently working on **vts-source**
-- Right now I'm in the process of creating my portfolio
+- Right now I'm in the process of creating my portfolio and learning React ecosystem
 - Contact me on *milanpanin@gmail.com*
 - You can also communicate with me on [LinkedIn](https://www.linkedin.com/in/milan-panin/)
 - Take a look at my [Curriculum Vitae a.k.a. CV](https://drive.google.com/file/d/1S6zP1vBvLQM10dWWjF2a1aTlruCwKlBv/view?usp=sharing)
