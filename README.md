@@ -8,7 +8,7 @@ Milan is a student from Novi Sad, who likes to spend his time exploring the inte
 ### More About Me:
 
 - Currently studying **React Ecosystem**
-- Right now I work as Web Developer in [Digital Arts](https://digitalartsagency.com/)
+- Right now I work as Web Developer at [Digital Arts](https://digitalartsagency.com/)
 - Contact me on *milanpanin@gmail.com*
 - You can also communicate with me on [LinkedIn](https://www.linkedin.com/in/milan-panin/)
 - Read some text from my [Medium Blog](https://medium.com/@milanpanin)
