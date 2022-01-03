@@ -3,7 +3,7 @@
 ---
 
 ### But who is Milan?
-Milan is a 23. year old student from Novi Sad, who likes to spend his time exploring the interesting world of JavaScript and learning how to develop the web in the best ways! 
+Milan is a 23. year old student from Novi Sad, who likes to spend his time exploring the interesting world of JavaScript and learning how to develop the web in the best way :)
 
 ### More About Me:
 
