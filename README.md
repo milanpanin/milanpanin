@@ -16,6 +16,7 @@ Milan is a 23. year old student from Novi Sad, who likes to spend his time explo
 
 ### Languages and Tools:
 
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://res.cloudinary.com/dvpigocv1/image/upload/v1622575263/GitHub/Profile%20README/js.svg"> </a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://res.cloudinary.com/dvpigocv1/image/upload/v1622575468/GitHub/Profile%20README/react.svg"></a>
 <a href="https://vuejs.org/" target="_blank"> <img src="https://res.cloudinary.com/dvpigocv1/image/upload/v1622574448/GitHub/Profile%20README/Vue.js_Logo_2.svg" align="left" alt="git" height='42px'/> </a>
