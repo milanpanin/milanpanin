@@ -8,7 +8,7 @@ Milan is a 23. year old student from Novi Sad, who likes to spend his time explo
 ### More About Me:
 
 - Currently studying **React Ecosystem**
-- Right now I work as Web Developer at [Digital Arts](https://digitalartsagency.com/)
+- Right now I work as Web Developer at [EXLRT](https://www.exlrt.com/)
 - Contact me on *milanpanin@gmail.com*
 - You can also communicate with me on [LinkedIn](https://www.linkedin.com/in/milan-panin/)
 - Read some text from my [Medium Blog](https://medium.com/@milanpanin)
